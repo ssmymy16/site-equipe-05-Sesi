@@ -8,3 +8,7 @@ width: 30%;
     background-color: steelblue;
 
 }
+img { 
+float: left;
+margin: 20px;
+}
