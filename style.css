@@ -1,22 +1,23 @@
-.maquina{
-width: 30%;
+.maquina {
+    width: 30%;
 
 }
+
 .cabeçalho {
     width: auto;
     height: 40%;
     background-color: #FF9800;
-    border-radius: 10px; 
+    border-radius: 20px;
+    font-size: medium;
 
-}
-img { 
+img {
     float: left;
     margin-right: 30px;
-margin-left: 30px;
-margin: 20px;
+    margin-left: 30px;
+    margin: 20px;
 }
 
-.texto{
+.texto {
     display: grid;
     text-aling: justify;
     with: 40%;
@@ -24,10 +25,10 @@ margin: 20px;
     margin-top: 30px;
     width: 50%;
     background-color: #FF9800;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
-.linha-tempo{
+.linha-tempo {
     margin-top: 80px;
     margin-left: 30px;
 }
@@ -37,6 +38,7 @@ margin: 20px;
     margin-right: 20px;
     margin-left: 10px;
     width: 100%;
-    display:flex;
+    display: flex;
     flex-direction: row;
 }
+
