@@ -3,8 +3,8 @@ img {
     height: 300px;
     border-radius: 50%;
     border: 5px solid #fec100;
-   
-} 
+
+}
 
 .cabeçalho {
     width: auto;
@@ -12,20 +12,21 @@ img {
     background-color: #fec100;
     border-radius: 10px;
     font-size: medium;
-} 
+}
 
 .texto1 {
     display: grid;
     justify-content: center;
     align-content: stretch;
     align-items: stretch;
-    width: 500px; 
+    width: 500px;
     margin-left: 4cm;
     margin-top: 4cm;
-    width: 60%;
+    width: 600%;
     background-color: #fec100;
     border-radius: 20px;
     color: black;
+    text-align: center;
 }
 
 .linha-tempo {
@@ -36,35 +37,38 @@ img {
 .img1G {
     text-align: right;
 }
+
 .img2G {
-    text-align: left ;
+    text-align: left;
+    align-content: normal;
 }
- .img3G {
-        text-align: right;
+
+.img3G {
+    text-align: right;
+    align-content: center;
 }
+
 .img4G {
     text-align: left;
 }
 
- 
+
 ul {
-display: flex;
-justify-content: space-between;
-list-style-type: none;
-align-items: center;
-padding: 16px;
-font-family: Arial, Helvetica, sans-serif;
-color: black;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
 
 }
 
 .center {
     text-align: center;
-    
+
 }
 
 h2 {
     color: #fec100;
 }
-
-
