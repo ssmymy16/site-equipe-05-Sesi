@@ -17,21 +17,15 @@ img {
 .texto1 {
     display: grid;
     justify-content: center;
-    align-content: stretch;
-    align-items: stretch;
+    align-items: center;
     width: 500px;
     margin-left: 4cm;
     margin-top: 4cm;
-    width: 600%;
+    width: 83%;
     background-color: #fec100;
     border-radius: 20px;
     color: black;
-    text-align: center;
-}
-
-.linha-tempo {
-    margin-top: 80px;
-    margin-left: 30px;
+    text-align: justify;
 }
 
 .img1G {
