@@ -31,7 +31,7 @@ img {
 .img1G {
     text-align: right;
     margin-right: 2cm;
-    float: right;
+    float: left;
 }
 
 .img2G {
@@ -79,7 +79,7 @@ h2 {
 
 .text2G {
     text-align: 2cm;
-    margin-right: 2cm;
+    margin-left: 2cm;
 }
 
 .text3G {
@@ -89,5 +89,5 @@ h2 {
 
 .text4G {
     text-align: 2cm;
-    margin-right: 2cm;
+    margin-left: 2cm;
 }
