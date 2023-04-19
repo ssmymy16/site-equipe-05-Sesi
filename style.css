@@ -36,20 +36,24 @@ img {
 
 .img1G {
     text-align: right;
+    margin-right: 2cm;
+    float: right;
 }
 
 .img2G {
     text-align: left;
-    align-content: normal;
+    margin-left: 2cm;
+
 }
 
 .img3G {
     text-align: right;
-    align-content: center;
+    margin-right: 2cm;
 }
 
 .img4G {
     text-align: left;
+    margin-left: 2cm;
 }
 
 
@@ -58,7 +62,7 @@ ul {
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
-    padding: 16px;
+    padding: 22px;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 
@@ -71,4 +75,25 @@ ul {
 
 h2 {
     color: #fec100;
+}
+
+.text1G {
+    text-align: left;
+    margin-left: 2cm;
+
+}
+
+.text2G {
+    text-align: 2cm;
+    margin-right: 2cm;
+}
+
+.text3G {
+    text-align: left;
+    margin-left: 2cm;
+}
+
+.text4G {
+    text-align: 2cm;
+    margin-right: 2cm;
 }
