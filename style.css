@@ -36,10 +36,14 @@ img {
 .img1G {
     text-align: right;
 }
-
+.img2G {
+    text-align: left ;
+}
  .img3G {
-        text-align: left;
-
+        text-align: right;
+}
+.img4G {
+    text-align: left;
 }
 
  
