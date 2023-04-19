@@ -6,15 +6,10 @@
 .cabeçalho {
     width: auto;
     height: 65px;
-    background-color: #FF9800;
+    background-color: #fec100;
     border-radius: 10px;
     font-size: medium;
-    display: flex;
-   justify-content: space-between;
-   list-style-type: none;
-   align-items: center;
-   padding: 16px;
-
+   
 img {
     float: left;
     margin-right: 30px;
