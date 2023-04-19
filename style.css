@@ -1,6 +1,6 @@
 img {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     border: 5px solid #fec100;
    
@@ -14,22 +14,14 @@ img {
     font-size: medium;
 } 
 
-   
-img {
-    float: left;
-    margin-right: 30px;
-    margin-left: 30px;
-    margin: 20px;
-}
-
-.texto {
+.texto1 {
     display: grid;
     text-aling: justify;
     with: 40%;
     margin-left: 90px;
     margin-top: 30px;
     width: 50%;
-    background-color: #FF9800;
+    background-color: #fec100;
     border-radius: 20px;
 }
 
@@ -60,5 +52,8 @@ font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
+h2 {
+    color: #fec100;
+}
 
 
