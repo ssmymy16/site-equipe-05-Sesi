@@ -31,23 +31,25 @@ img {
 .img1G {
     text-align: right;
     margin-right: 2cm;
-    float: left;
+    float: right;
 }
 
 .img2G {
     text-align: left;
     margin-left: 2cm;
-
+float: left;
 }
 
 .img3G {
     text-align: right;
     margin-right: 2cm;
+    float: right;
 }
 
 .img4G {
     text-align: left;
     margin-left: 2cm;
+    float: left;
 }
 
 
@@ -74,20 +76,24 @@ h2 {
 .text1G {
     text-align: left;
     margin-left: 2cm;
+    margin-right: 2cm;
 
 }
 
 .text2G {
-    text-align: 2cm;
-    margin-left: 2cm;
+  margin-left: 2cm;  
+    margin-right: 2cm;
+text-align: right;
 }
 
 .text3G {
     text-align: left;
     margin-left: 2cm;
+    margin-right: 2cm;
 }
 
 .text4G {
     text-align: 2cm;
     margin-left: 2cm;
+    margin-right: 2cm;
 }
