@@ -19,17 +19,21 @@ img {
     align-items: center;
     width: 500px;
     margin-left: 4cm;
-    margin-top: 4cm;
+    margin-top: 2cm;
+    margin-right: 4cm;
     width: 83%;
-    
+    text-align: right;
+
 }
+
 .historia {
     display: grid;
     justify-content: center;
     align-items: center;
     width: 500px;
-    margin-left: 4cm;
-    margin-top: 4cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 2cm;
     width: 83%;
     background-color: #fec100;
     border-radius: 20px;
@@ -62,7 +66,8 @@ img {
     margin-left: 2cm;
     float: left;
 }
-.img3G {
+
+.img5G {
     text-align: right;
     margin-right: 2cm;
     float: right;
@@ -78,12 +83,14 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 
+
 }
 
 .center {
     text-align: center;
     align-items: center;
-   
+    float: left;
+
 }
 
 h3 {
@@ -115,7 +122,7 @@ h3 {
     margin-right: 2cm;
 }
 
-.text3G {
+.text5G {
     text-align: left;
     margin-left: 2cm;
     margin-right: 2cm;
