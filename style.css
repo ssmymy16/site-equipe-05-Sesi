@@ -30,40 +30,24 @@ img {
     text-align: right;
     margin-right: 2cm;
     float: right;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 5px solid #fec100;
 }
 
 .img2G {
     text-align: left;
     margin-left: 2cm;
 float: left;
-width: 100px;
-height: 100px;
-border-radius: 50%;
-border: 5px solid #fec100;
 }
 
 .img3G {
     text-align: right;
     margin-right: 2cm;
     float: right;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 5px solid #fec100;
 }
 
 .img4G {
     text-align: left;
     margin-left: 2cm;
-    float: left;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 5px solid #fec100;
+    float: left;1
 }
 
 
