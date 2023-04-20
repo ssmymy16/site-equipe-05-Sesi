@@ -15,14 +15,14 @@ img {
 
 .texto1 {
     display: grid;
-    justify-content: right;
-    align-items: right;
+    justify-content: center;
+    align-items: center;
     width: 500px;
     margin-left: 4cm;
     margin-top: 2cm;
     margin-right: 4cm;
     width: 83%;
-    text-align: right;
+    text-align: center;
 
 }
 
@@ -83,14 +83,12 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 
-
 }
 
 .center {
     text-align: center;
     align-items: center;
-    float: left;
-
+    
 }
 
 h3 {
