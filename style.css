@@ -4,6 +4,7 @@ img {
     border-radius: 50%;
     border: 5px solid #fec100;
 }
+
 .cabeçalho {
     width: auto;
     height: 65px;
@@ -47,7 +48,7 @@ float: left;
 .img4G {
     text-align: left;
     margin-left: 2cm;
-    float: left;1
+    float: left;
 }
 
 
