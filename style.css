@@ -25,6 +25,7 @@ img {
     border-radius: 20px;
     color: black;
     text-align: justify;
+    padding: 25px;
 }
 
 .img1G {
@@ -50,6 +51,11 @@ img {
     margin-left: 2cm;
     float: left;
 }
+.img3G {
+    text-align: right;
+    margin-right: 2cm;
+    float: right;
+}
 
 
 ul {
@@ -65,11 +71,7 @@ ul {
 
 .center {
     text-align: center;
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-    border: 5px solid #fec100;
-
+   
 }
 
 h3 {
@@ -97,6 +99,12 @@ h3 {
 
 .text4G {
     text-align: right;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+.text3G {
+    text-align: left;
     margin-left: 2cm;
     margin-right: 2cm;
 }
