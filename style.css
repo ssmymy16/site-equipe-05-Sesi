@@ -21,11 +21,22 @@ img {
     margin-left: 4cm;
     margin-top: 4cm;
     width: 83%;
+    
+}
+.historia {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin-left: 4cm;
+    margin-top: 4cm;
+    width: 83%;
     background-color: #fec100;
     border-radius: 20px;
     color: black;
     text-align: justify;
     padding: 25px;
+
 }
 
 .img1G {
@@ -71,6 +82,7 @@ ul {
 
 .center {
     text-align: center;
+    align-items: center;
    
 }
 
