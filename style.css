@@ -36,7 +36,7 @@ img {
 .img2G {
     text-align: left;
     margin-left: 2cm;
-float: left;
+    float: left;
 }
 
 .img3G {
@@ -84,9 +84,9 @@ h3 {
 }
 
 .text2G {
-  margin-left: 2cm;  
+    margin-left: 2cm;
     margin-right: 2cm;
-text-align: right;
+    text-align: right;
 }
 
 .text3G {
@@ -96,12 +96,13 @@ text-align: right;
 }
 
 .text4G {
-    text-align: right ;
+    text-align: right;
     margin-left: 2cm;
     margin-right: 2cm;
 }
+
 .linhadotempo {
-text-align: left;
+    text-align: left;
     margin-left: 2cm;
-    margin-right: 2cm; 
+    margin-right: 2cm;
 }
